@@ -1,10 +1,10 @@
 {
-  "name": "rnoh_fileupload",
-  "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "name": "@react-native-oh-tpl/react-native-fileupload",
+  "version": "1.1.0-0.0.1",
+  "description": "A file upload plugin for react-native.",
   "main": "Index.ets",
   "author": "",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
     "@rnoh/react-native-openharmony": "file:../react_native_openharmony"
   }
