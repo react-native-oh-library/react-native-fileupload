@@ -2,9 +2,9 @@
     {
         "Name": "react-native-fileupload",
         "License": "MIT License",
-        "License File": "https://github.com/PhilippKrone/react-native-fileupload/blob/master/LICENSE",
+        "License File": "LICENSE",
         "Version Number": "1.1.0",
-        "Owner" : "Philipp Krone"
+        "Owner" : "xiafeng@huawei.com",
         "Upstream URL": "https://github.com/PhilippKrone/react-native-fileupload",
         "Description": "A file upload plugin for react-native."
     }
